@@ -12,3 +12,6 @@ cmake --build build -j16 --config Release
 ```bash
 C:\Qt\5.15.2\msvc2019_64\bin\windeployqt.exe window_container.exe
 ```
+
+## Screenshot
+![1689339092922](https://github.com/ohto-ai/window_container/assets/46275725/c10b87b8-d0bc-4520-8557-0d5791d69a85)
