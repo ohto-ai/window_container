@@ -1,7 +1,7 @@
 ﻿#pragma once
 
-#include <QProcess>
 #include <QtWidgets/QMainWindow>
+#include <QProcess>
 #include "ui_DoubleWindowContainer.h"
 
 class DoubleWindowContainer : public QMainWindow

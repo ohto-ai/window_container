@@ -1,0 +1,148 @@
+﻿  uic DoubleWindowContainer.ui
+  rcc DoubleWindowContainer.qrc
+  moc DoubleWindowContainer.h
+   RCC: Warning: No resources in 'C:\Users\OhtoAi\source\repos\window_container\DoubleWindowContainer\DoubleWindowContainer.qrc'.
+  DoubleWindowContainer.cpp
+  main.cpp
+C:\Users\OhtoAi\source\repos\window_container\DoubleWindowContainer\DoubleWindowContainer.h(3,10): fatal  error C1083: 无法打开包括文件: “QtWidgets/QMainWindow”: No such file or directory (编译源文件 main.cpp)
+C:\Users\OhtoAi\source\repos\window_container\DoubleWindowContainer\DoubleWindowContainer.h(3,10): fatal  error C1083: 无法打开包括文件: “QtWidgets/QMainWindow”: No such file or directory (编译源文件 DoubleWindowContainer.cpp)
+
+项目性能摘要:
+      150 毫秒 C:\Users\OhtoAi\source\repos\window_container\DoubleWindowContainer\DoubleWindowContainer.vcxproj   1 次调用
+                150 毫秒 Rebuild                                    1 次调用
+
+目标性能摘要:
+        0 毫秒 _CheckForInvalidConfigurationAndPlatform   1 次调用
+        0 毫秒 QtTranslation                              1 次调用
+        0 毫秒 BeforeClCompile                            1 次调用
+        0 毫秒 BuildCompileTraverse                       1 次调用
+        0 毫秒 BuildGenerateSources                       1 次调用
+        0 毫秒 _BuildGenerateSourcesAction                1 次调用
+        0 毫秒 AfterBuildGenerateSourcesEvent             1 次调用
+        0 毫秒 AfterBuildGenerateSources                  1 次调用
+        0 毫秒 _Midl                                      1 次调用
+        0 毫秒 QtUicInit                                  1 次调用
+        0 毫秒 AfterMidl                                  1 次调用
+        0 毫秒 MakeDirsForMidl                            1 次调用
+        0 毫秒 _Xsd                                       1 次调用
+        0 毫秒 CopyFileToFolders                          1 次调用
+        0 毫秒 SelectClCompile                            1 次调用
+        0 毫秒 ComputeCustomBuildOutput                   1 次调用
+        0 毫秒 SelectCustomBuild                          1 次调用
+        0 毫秒 _SelectedFiles                             1 次调用
+        0 毫秒 PreBuildEvent                              1 次调用
+        0 毫秒 ComputeMIDLGeneratedCompileInputs          1 次调用
+        0 毫秒 BeforeBuildGenerateSources                 1 次调用
+        0 毫秒 QtUicPrepare                               1 次调用
+        0 毫秒 WarnCompileDuplicatedFilename              1 次调用
+        0 毫秒 QtQmlCreateItems                           1 次调用
+        0 毫秒 FindReferenceAssembliesForReferences       1 次调用
+        0 毫秒 QtMocOverrideCpp                           1 次调用
+        0 毫秒 QtMocPrepare                               1 次调用
+        0 毫秒 QtMocInit                                  1 次调用
+        0 毫秒 QtQmlCache                                 1 次调用
+        0 毫秒 QtQmlCacheItem                             1 次调用
+        0 毫秒 QtQmlSetModified                           1 次调用
+        0 毫秒 QtUicSetModified                           1 次调用
+        0 毫秒 QtQmlCacheLoader                           1 次调用
+        0 毫秒 QtRccFilterSetModified                     1 次调用
+        0 毫秒 QtRccOverrideCpp                           1 次调用
+        0 毫秒 QtGetDefaultClCompile                      1 次调用
+        0 毫秒 QtRccSetModified                           1 次调用
+        0 毫秒 QtRccPrepare                               1 次调用
+        0 毫秒 GetReferencedVCProjectsInfo                1 次调用
+        0 毫秒 ComputeReferenceCLInput                    1 次调用
+        0 毫秒 QtRccInit                                  1 次调用
+        0 毫秒 QtRccFilter                                1 次调用
+        0 毫秒 QtQml                                      1 次调用
+        0 毫秒 BuildGenerateSourcesTraverse               1 次调用
+        0 毫秒 ComputeCLInputPDBName                      1 次调用
+        0 毫秒 QtTranslationPrepare                       1 次调用
+        0 毫秒 ComputeStdModulesCompileInputs             1 次调用
+        0 毫秒 QtClean                                    1 次调用
+        0 毫秒 CppClean                                   1 次调用
+        0 毫秒 PGInstrumentedClean                        1 次调用
+        0 毫秒 AfterCppClean                              1 次调用
+        0 毫秒 FixupCLCompileOptions                      1 次调用
+        0 毫秒 BeforeCppClean                             1 次调用
+        0 毫秒 BeforeRebuild                              1 次调用
+        0 毫秒 AfterClean                                 1 次调用
+        0 毫秒 CleanReferencedProjects                    1 次调用
+        0 毫秒 PrepareProjectReferences                   1 次调用
+        0 毫秒 _GetProjectReferenceTargetFrameworkProperties   1 次调用
+        0 毫秒 _AddOutputPathToGlobalPropertiesToRemove   1 次调用
+        0 毫秒 _SplitProjectReferencesByFileExistence     1 次调用
+        0 毫秒 AssignProjectConfiguration                 1 次调用
+        0 毫秒 BeforeClean                                1 次调用
+        0 毫秒 SetTelemetryEnvironmentVariables           1 次调用
+        0 毫秒 CleanPublishFolder                         1 次调用
+        0 毫秒 QtTranslationClean                         1 次调用
+        0 毫秒 _PrepareForRebuild                         1 次调用
+        0 毫秒 QtVersion                                  1 次调用
+        0 毫秒 ResolveReferences                          1 次调用
+        0 毫秒 AfterResolveReferences                     1 次调用
+        0 毫秒 ResolveAssemblyReferences                  1 次调用
+        0 毫秒 ExpandSDKReferences                        1 次调用
+        0 毫秒 ResolveSDKReferences                       1 次调用
+        0 毫秒 Clean                                      1 次调用
+        0 毫秒 _CheckWindowsSDKInstalled                  1 次调用
+        0 毫秒 GetResolvedWinMD                           1 次调用
+        0 毫秒 SetCABuildNativeEnvironmentVariables       1 次调用
+        0 毫秒 AddExternalIncludDirectoriesToPaths        1 次调用
+        0 毫秒 GetReferenceAssemblyPaths                  1 次调用
+        0 毫秒 GetFrameworkPaths                          1 次调用
+        0 毫秒 BeforeResolveReferences                    1 次调用
+        0 毫秒 _PrepareForReferenceResolution             1 次调用
+        0 毫秒 _PrepareForBuild                           1 次调用
+        0 毫秒 SetBuildDefaultEnvironmentVariables        1 次调用
+        0 毫秒 ResolveProjectReferences                   1 次调用
+        1 毫秒 PrepareForBuild                            1 次调用
+        1 毫秒 QtPrepare                                  1 次调用
+        1 毫秒 _PrepareForClean                           1 次调用
+        1 毫秒 QtLeaveCriticalSection_InitializeBuildStatus   1 次调用
+        1 毫秒 QtRcc                                      1 次调用
+        1 毫秒 MakeDirsForCl                              1 次调用
+        1 毫秒 QtVarsClean                                1 次调用
+        1 毫秒 QtMocSetModified                           1 次调用
+        1 毫秒 InitializeBuildStatus                      1 次调用
+        1 毫秒 CustomBuild                                1 次调用
+        1 毫秒 CoreClean                                  1 次调用
+        1 毫秒 Qt                                         1 次调用
+        1 毫秒 QtQmlCachePrepare                          1 次调用
+        2 毫秒 QtMoc                                      1 次调用
+        2 毫秒 QtWorkPrepare                              3 次调用
+        2 毫秒 QtEnterCriticalSection_InitializeBuildStatus   1 次调用
+        4 毫秒 QtUic                                      1 次调用
+        4 毫秒 QtRccSetDependencies                       1 次调用
+        4 毫秒 CoreCppClean                               1 次调用
+       10 毫秒 QtSetAdditionalOptions                     1 次调用
+       27 毫秒 QtWork                                     1 次调用
+       77 毫秒 ClCompile                                  1 次调用
+
+任务性能摘要:
+        0 毫秒 Message                                    2 次调用
+        0 毫秒 CheckVCToolsetVersion                      1 次调用
+        0 毫秒 HostTranslatePaths                         3 次调用
+        0 毫秒 ListQrc                                    1 次调用
+        0 毫秒 SetRidAgnosticValueForProjects             1 次调用
+        0 毫秒 MSBuild                                    1 次调用
+        0 毫秒 Touch                                      1 次调用
+        0 毫秒 AssignProjectConfiguration                 1 次调用
+        0 毫秒 RemoveDuplicates                           1 次调用
+        0 毫秒 FindUnderPath                              2 次调用
+        0 毫秒 ReadLinesFromFile                          3 次调用
+        0 毫秒 Delete                                     7 次调用
+        0 毫秒 SetEnv                                     9 次调用
+        0 毫秒 GetItemHash                                3 次调用
+        0 毫秒 CreateProperty                             6 次调用
+        1 毫秒 Expand                                     1 次调用
+        1 毫秒 Flatten                                    4 次调用
+        1 毫秒 RemoveDir                                  1 次调用
+        1 毫秒 GetOutOfDateItems                          3 次调用
+        2 毫秒 MakeDir                                   10 次调用
+        2 毫秒 CriticalSection                            4 次调用
+        3 毫秒 CppClean                                   1 次调用
+        4 毫秒 WriteLinesToFile                          13 次调用
+        5 毫秒 QtRunTask                                  1 次调用
+       21 毫秒 QtRunWork                                  1 次调用
+       76 毫秒 CL                                         1 次调用

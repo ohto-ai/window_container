@@ -3,7 +3,7 @@
 #include <QWindow>
 #include <QTimer>
 #include <TlHelp32.h>
-#include <json.hpp>
+#include <nlohmann/json.hpp>
 #include <QFile>
 
 
